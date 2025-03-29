@@ -1,14 +1,1 @@
 
-=== Test Run at 2025-03-29 12:16:43 ===
-✅ Test Case 1 Passed: Total sales per product | Expected=[300, 700], Actual=[300, 700]
-✅ Test Case 2 Passed: Total sales per region | Expected=[400, 600], Actual=[400, 600]
-✅ Test Case 3 Passed: Best selling product | Expected=(1, 400), Actual=(1, 400)
-✅ Test Case 4 Passed: Normalized sales | Expected=[[0.25, 0.5], [0.75, 1.0]], Actual=[[0.25, 0.5], [0.75, 1.0]]
-✅ Test Case 5 Passed: Hidden Test: Zero matrix normalization
-
-=== Test Run at 2025-03-29 12:18:07 ===
-✅ Test Case 1 Passed: Total sales per product | Expected=[300, 700], Actual=[300, 700]
-✅ Test Case 2 Passed: Total sales per region | Expected=[400, 600], Actual=[400, 600]
-❌ Test Case 3 Failed: Best selling product | Expected=(1, 400), Got=(0, 50)
-✅ Test Case 4 Passed: Normalized sales | Expected=[[0.25, 0.5], [0.75, 1.0]], Actual=[[0.25, 0.5], [0.75, 1.0]]
-✅ Test Case 5 Passed: Hidden Test: Zero matrix normalization
